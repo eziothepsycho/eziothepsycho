@@ -50,7 +50,7 @@
 
 <br clear="both">
 
-<img align="left" height="150" src="https://github.com/eziothepsycho/eziothepyscho/blob/main/images/shoryuken.gif?raw=true"  />
+<img align="left" height="200" src="https://github.com/eziothepsycho/eziothepsycho/blob/main/images/ryu.gif?raw=true"  />
 
 ###
 
@@ -68,9 +68,9 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eziothepsycho/eziothepyscho/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eziothepsycho/eziothepyscho/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eziothepsycho/eziothepyscho/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eziothepsycho/eziothepsycho/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eziothepsycho/eziothepsycho/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eziothepsycho/eziothepsycho/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
