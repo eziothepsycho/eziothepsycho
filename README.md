@@ -62,7 +62,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://github.com/eziothepsycho/eziothepyscho/blob/main/images/gameover2.gif?raw=true"  />
+  <img height="100" src="https://github.com/eziothepsycho/eziothepyscho/blob/main/images/gameover2.gif?raw=true"  />
 </div>
 
 ###
