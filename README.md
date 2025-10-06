@@ -50,7 +50,7 @@
 
 <br clear="both">
 
-<img align="left" height="200" src="https://github.com/eziothepsycho/eziothepyscho/blob/main/images/shoryuken.gif?raw=true"  />
+<img align="left" height="100" src="https://github.com/eziothepsycho/eziothepyscho/blob/main/images/shoryuken.gif?raw=true"  />
 
 ###
 
@@ -62,7 +62,7 @@
 ###
 
 <div align="center">
-  <img height="100" src="https://github.com/eziothepsycho/eziothepyscho/blob/main/images/gameover2.gif?raw=true"  />
+  <img height="300" src="https://github.com/eziothepsycho/eziothepyscho/blob/main/images/gameover2.gif?raw=true"  />
 </div>
 
 ###
