@@ -48,13 +48,7 @@
 
 ###
 
-<br clear="both">
-
-<img align="left" height="200" src="https://github.com/eziothepsycho/eziothepsycho/blob/main/images/ryu.gif?raw=true"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eziothepsycho&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eziothepsycho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
@@ -62,7 +56,7 @@
 ###
 
 <div align="center">
-  <img height="300" src="https://github.com/eziothepsycho/eziothepyscho/blob/main/images/gameover2.gif?raw=true"  />
+  <img height="400" src="https://github.com/eziothepsycho/eziothepyscho/blob/main/images/gameover2.gif?raw=true"  />
 </div>
 
 ###
